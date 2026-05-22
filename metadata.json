@@ -1,0 +1,6 @@
+{
+  "name": "ModernSoft Inventory",
+  "description": "تطبيق جرد ذكي لشركة ModernSoft للاتصال بقاعدة بيانات أوراكل وسحب بيانات الأصناف ومسح الباركود وجرد الأرصدة الافتتاحية وجرد نهاية السنة وتصدير البيانات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
